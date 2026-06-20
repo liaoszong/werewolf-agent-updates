@@ -1,0 +1,24 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.werewolfagent.app</Name>
+  <DisplayName>Werewolf-agent</DisplayName>
+  <Description>AI-vs-AI Werewolf live experiment platform</Description>
+  <Version>0.2.0</Version>
+  <ReleaseDate>2026-06-20</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <Default>true</Default>
+  <Essential>true</Essential>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile CompressedSize="96682748" OS="Any" UncompressedSize="233205283"/>
+  <DownloadableArchives>_internal.7z,app.7z,runtime.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="License Agreement"/>
+  </Licenses>
+  <SHA1>36c78c2180ebb47ecb123f64b0a213436b25e6da</SHA1>
+ </PackageUpdate>
+ <SHA1>699ff83534d0288377f50ac152298d02f0b1ea86</SHA1>
+ <MetadataName>2026-06-20-1402_meta.7z</MetadataName>
+</Updates>
